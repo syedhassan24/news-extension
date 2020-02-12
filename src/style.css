@@ -1,0 +1,21 @@
+#a{
+text-align: center;
+color: #ffffff; font-family: 'Lato', sans-serif; font-size: 30px; font-weight: 10; margin:25px 0px 30px 0px;
+}
+#c{
+  color: #adb7bd; font-family: 'Lucida Sans', Arial, sans-serif; font-size: 16px; line-height: 26px;
+}
+#b,#d{
+  background: #fe921f; color: #ffffff; display: inline-block; font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; line-height: 12px; letter-spacing: 1px; margin: 0 0 50px; padding: 10px 15px 8px; text-transform: uppercase;
+}
+body{
+  background-color: #1C2328;
+}
+#e{
+  margin: 0 0 50px;
+}
+#e span{
+  background-color: #fe921f;
+  color: #ffffff;
+  line-height: 12px;font-size: 36px; letter-spacing: 1px; padding: 10px 15px 8px;
+}

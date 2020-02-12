@@ -1,0 +1,15 @@
+{
+    "name": "FreshNews",
+    "version": "1.0",
+    "description": "Provide user with the latest news",
+
+    "permissions": [
+      "https://openweathermap.org/",
+      "https://newsapi.org/",
+      "tabs"
+    ],
+    "browser_action": {
+      "default_popup": "home.html"
+    },
+    "manifest_version": 2
+  }
