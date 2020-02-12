@@ -3,4 +3,4 @@ a google chrome extension which allows users to get the latest news and weather 
 # 
 The google chrome extensions uses google news api to get the latest news
 #
-The extension is written in html,css,javascript
+The extension is written in HTML, CSS, Javascript
